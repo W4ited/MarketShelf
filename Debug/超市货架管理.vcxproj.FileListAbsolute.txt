@@ -1,0 +1,2 @@
+D:\VSCODE\write\超市货架管理\Debug\超市货架管理.exe
+D:\VSCODE\write\超市货架管理\Debug\超市货架管理.pdb

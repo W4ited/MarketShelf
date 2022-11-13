@@ -1,0 +1,8 @@
+﻿  超市货架管理.cpp
+D:\VSCODE\write\超市货架管理\超市货架管理.cpp(61,23): warning C4018: “<=”: 有符号/无符号不匹配
+D:\VSCODE\write\超市货架管理\超市货架管理.cpp(65,17): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+D:\VSCODE\write\超市货架管理\超市货架管理.cpp(140,23): warning C4018: “<=”: 有符号/无符号不匹配
+D:\VSCODE\write\超市货架管理\超市货架管理.cpp(144,17): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+D:\VSCODE\write\超市货架管理\超市货架管理.cpp(287,19): warning C4018: “<=”: 有符号/无符号不匹配
+D:\VSCODE\write\超市货架管理\超市货架管理.cpp(291,17): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+  超市货架管理.vcxproj -> D:\VSCODE\write\超市货架管理\Debug\超市货架管理.exe

@@ -1,0 +1,1 @@
+﻿D:\VSCODE\write\超市货架管理\超市货架管理.vcxproj(28,3): error MSB4019: 找不到导入的项目“D:\VScode\VsIDE\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Default.props”。请确认 Import 声明“D:\VScode\VsIDE\MSBuild\Microsoft\VC\v160\\Microsoft.Cpp.Default.props”中的表达式正确，且文件位于磁盘上。
